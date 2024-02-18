@@ -1,0 +1,10 @@
+.img-col{
+display: flex;
+flex-wrap: wrap;
+gap: 1em;
+margin-top: 15px;
+   >img{
+width: 400px;
+object-fit: cover;
+   } 
+}
